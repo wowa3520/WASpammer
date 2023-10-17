@@ -1,0 +1,25 @@
+Date: 13/10/2023
+Time: 17:58
+Group ID: 
+Message: Test Msg
+--------------------
+Date: 13/10/2023
+Time: 18:5
+Phone Number: +7 771 060 5588
+Message: testsmg
+--------------------
+Date: 13/10/2023
+Time: 18:8
+Phone Number: +7 771 060 5588
+Message: testsmg
+--------------------
+Date: 13/10/2023
+Time: 18:11
+Phone Number: +7 771 060 5588
+Message: testsmg
+--------------------
+Date: 13/10/2023
+Time: 18:13
+Group ID: EhIY4YA1lXj7V77TCIlh9n
+Message: /
+--------------------
